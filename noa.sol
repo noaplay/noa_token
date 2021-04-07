@@ -1,3 +1,4 @@
+// As NOA Play ecosystem evolves, any content of the token can be updated.
 
 // File: @openzeppelin/contracts/GSN/Context.sol
 
