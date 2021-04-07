@@ -1,5 +1,7 @@
 # PLAY WITH YOUR LIFE WITH NOA
 
+# As NOA Play ecosystem evolves, any content of the token can be updated.
+ 
 # Development Purpose
 
 As the “Live streaming commerce”, a shopping method for purchasing products, expands;
